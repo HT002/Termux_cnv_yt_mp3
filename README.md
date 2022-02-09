@@ -1,7 +1,7 @@
 # termux converter video YouTube to mp3 
 
 ### ควรเข้าโฟรเดอร์ที่ต้องการเก็บmusicไว้ก่อน
-### และนำเข้าเข้าscript python
+### และนำเข้าscript python
 
 ### install command
 
