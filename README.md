@@ -31,3 +31,19 @@ git clone https://github.com/HT002/Termux_cnv_yt_mp3.git
 ```bash
 cd Termux_cnv_yt_mp3
 ```
+
+### การนำเข้าstorage
+
+### set up storage
+```bash
+termux-setup-storage
+```
+### เช็คว่ามีstorageไหม
+```bash
+ls
+```
+### นำเข้าstorage
+
+```bash
+cd storrage
+```
