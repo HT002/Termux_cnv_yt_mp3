@@ -6,20 +6,12 @@ apt update && apt upgrade && apt-get install git && apt install python3
 
 ```bash
 pip install youtube_dl
-
+```
 ### CLONE GITHUB
-
+```bash
 git clone https://github.com/HT002/Termux_cnv_yt_mp3.git 
-
+```
 ### IMPIRT SCRIPT 
 ```bash
 cd Termux_cnv_yt_mp3
-
-### How to install
-
-Follow the steps below - 
-
-
-```bash
-
 ```
