@@ -45,9 +45,10 @@ termux-setup-storage
 ```bash
 ls
 ```
-<img src="https://github.com/HT002/manage-files/blob/main/IMG/Screenshot_20220209-122731_1.png">
 ### นำเข้าstorage
 
 ```bash
 cd storrage
 ```
+### และนำเข้าตามที่มี
+<img src="https://github.com/HT002/manage-files/blob/main/IMG/Screenshot_20220209-122731_1.png">
