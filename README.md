@@ -32,7 +32,7 @@ git clone https://github.com/HT002/Termux_cnv_yt_mp3.git
 cd Termux_cnv_yt_mp3
 ```
 
-### การนำเข้าstorage
+### การนำเข้าmusicไปยังstorageและนำเข้าmusicโฟรเดอร์ที่ต้องการ
 
 ### set up storage
 ```bash
