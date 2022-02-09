@@ -1,7 +1,9 @@
 # termux converter video YouTube to mp3 
 ```bash
-apt update && apt upgrade && apt-get install git && apt install python3
-###INSTALL YOUTUBE_DL
+apt update && apt upgrade && apt-get install git && apt install python3 
+#install all. 
+ff
+#INSTALL YOUTUBE_DL
 ```bash
 pip install youtube_dl
 ###CLONE GITHUB
