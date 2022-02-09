@@ -1,5 +1,8 @@
 # termux converter video YouTube to mp3 
 
+### ควรเข้าโฟรเดอร์ที่ต้องการเก็บmusicไว้ก่อน
+### และนำเข้าเข้าscript python
+
 ### install command
 
 ```bash
@@ -32,7 +35,7 @@ git clone https://github.com/HT002/Termux_cnv_yt_mp3.git
 cd Termux_cnv_yt_mp3
 ```
 
-### การนำเข้าmusicไปยังstorageและนำเข้าmusicโฟรเดอร์ที่ต้องการ
+### การนำเข้าmusicไปยังstorage
 
 ### set up storage
 ```bash
