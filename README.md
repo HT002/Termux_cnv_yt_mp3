@@ -39,7 +39,7 @@ cd Termux_cnv_yt_mp3
 
 ### การนำเข้าmusicไปยังstorage
 
-### set up storage
+### install storage
 ```bash
 termux-setup-storage
 ```
