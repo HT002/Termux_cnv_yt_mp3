@@ -30,7 +30,7 @@ pip install youtube_dl
 ```
 ### CLONE GITHUB
 ```bash
-git clone https://github.com/HT002/Termux_cnv_yt_mp3.git 
+git clone https://github.com/HT002/termux-yt-dl.git
 ```
 ### IMPORT SCRIPT 
 ```bash
