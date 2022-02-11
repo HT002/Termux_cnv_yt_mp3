@@ -34,7 +34,7 @@ git clone https://github.com/HT002/termux-yt-dl.git
 ```
 ### IMPORT SCRIPT 
 ```bash
-cd Termux_cnv_yt_mp3
+cd termux-yt-dl
 ```
 
 ### การนำเข้าmusicไปยังstorage
